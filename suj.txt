@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello World..
+=======
+
+GitHub Desktop is a free application that lets you manage and work with code projects using a visual screen instead of text commands
+>>>>>>> master
